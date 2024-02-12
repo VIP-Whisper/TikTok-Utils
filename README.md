@@ -3,7 +3,7 @@ TikTok Algorithms
 - TikTok Algorithms :
   - Argus
   - Gorgon
-  - Landon
+  - Ladon
   - Khronos
   - x-ss-req_ticket
 - For Other DM : https://t.me/WHI3PER
